@@ -80,10 +80,10 @@ theme: landscape
 deploy:
   type: git
   repo: <repository url>
-  branch: [branch]
+  branch: public
   message: [message]
-  name: [git user]
-  email: [git email]
+  name: wkhuahuo
+  email: wkhuahuo@163.com
   extend_dirs: [extend directory]
   ignore_hidden: false # default is true
   ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
