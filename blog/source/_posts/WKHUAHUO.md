@@ -1,7 +1,8 @@
 ---
 title: WKHUAHUO
 date: 2019-01-19 13:08:54
-tags: abc, efg
+tags: abc
+ -  efg
 ---
 
 # 文档第一步，hexo
