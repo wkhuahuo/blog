@@ -81,8 +81,6 @@ deploy:
   type: git
   repo: https://github.com/wkhuahuo/blog.git
   branch: public
-  message: [message]
   name: wkhuahuo
   email: wkhuahuo@163.com
-  ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
 
